@@ -47,8 +47,8 @@
 ### 📊 GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreepalgoyal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreepalgoyal&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=shreepalgoyal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shreepalgoyal&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
